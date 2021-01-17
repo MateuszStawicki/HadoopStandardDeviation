@@ -1,0 +1,21 @@
+
+P
+java:S1161":Add the "@Override" annotation above this method signature(Àå‚Ğ
+v
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãß×¯8öüèğ.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(¦·­÷8“»÷ìğ.
+]	java:S125K"<This block of commented-out lines of code should be removed.(¥¿¶Ñûÿÿÿÿ8Ø¯íğ.
+i	java:S1018"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëÉåÎ8¥£¹ãğ.
+n
+java:S1104:"QMake cache a static final constant or non-public and provide accessors if needed.(ãß×¯8Ëİ˜íğ.
+X	java:S125@"<This block of commented-out lines of code should be removed.(šüè¦8Ëİ˜íğ.
+U
+java:S1128"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊşÿÿÿÿ8Âá°íğ.
+U
+java:S1161<":Add the "@Override" annotation above this method signature(…œÑ­şÿÿÿÿ
+H
+java:S1874]"+Remove this use of "Job"; it is deprecated.(³ëó8“»÷ìğ.
+E
+java:S1481A"(Remove this unused "sum" local variable.(Æß‘8Ø¯íğ.
+G
+java:S1481B"*Remove this unused "count" local variable.(æÕ¿¼8¹Û¹íğ.
